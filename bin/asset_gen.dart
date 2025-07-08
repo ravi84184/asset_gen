@@ -1,5 +1,26 @@
 import 'dart:io';
 
+/// --------------------------------------------------------------------------
+///  ASSET GEN - A Dart script to auto-generate constants for asset paths
+/// --------------------------------------------------------------------------
+///  Author: Ravi
+///  GitHub: https://github.com/ravi84184/asset_gen
+///  License: MIT
+///  Last Updated: July 2025
+///
+///  📁 Scans the given assets/ directory (default: 'assets/')
+///  📄 Generates: lib/generated/assets.dart
+///
+///  ✅ Supports:
+///     - Automatic camelCase constant generation
+///     - Reserved word protection
+///     - Unique name resolution
+///     - Clean and valid Dart identifiers
+///
+///  Usage:
+///     dart run asset_gen [optional-assets-folder]
+///
+/// --------------------------------------------------------------------------
 void main(List<String> arguments) async {
   final assetsDir = arguments.isNotEmpty ? arguments.first : 'assets';
   final outputPath = 'lib/generated/assets.dart';

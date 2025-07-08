@@ -120,7 +120,7 @@ Contributions, issues, and feature requests are welcome!
 
 - 📦 Pub.dev: [https://pub.dev/packages/asset_gen](https://pub.dev/packages/asset_gen)
 - 💻 Dart SDK: [https://dart.dev](https://dart.dev)
-- 🐙 GitHub: [https://github.com/yourusername/asset_gen](https://github.com/yourusername/asset_gen)
+- 🐙 GitHub: [https://github.com/ravi84184/asset_gen](https://github.com/ravi84184/asset_gen)
 
 ---
 

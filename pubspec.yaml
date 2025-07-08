@@ -1,6 +1,6 @@
 name: asset_gen
 description: Generate a Dart class containing constant paths for all assets in your Flutter app.
-version: 1.0.0
+version: 1.0.1-beta.1
 homepage: https://github.com/ravi84184/asset_gen
 repository: https://github.com/ravi84184/asset_gen
 
